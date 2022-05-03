@@ -1,0 +1,20 @@
+.heading-container {
+    /* background-color: #AC9969; */
+    background-color: #AC6B68;
+    color: white;
+    font-family: Century Gothic;
+    margin: 0;
+    padding: 5rem;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 5rem;
+    margin-bottom: 2rem;
+    
+}
+
+.track{
+    font-size: 1rem;
+    letter-spacing: 0;
+    margin:0;
+    padding: 0.5rem;
+}

@@ -1,0 +1,23 @@
+.chart-container {
+    background-color: #93E9F5;
+    border: 1px solid #93E9F5;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    height: 10rem;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.chart-container:hover{
+    /* background-color: #687BAC; */
+    /* background-color: #93E9F5;
+    border: 1px solid #93E9F5; */
+    transition-duration: 250ms;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+

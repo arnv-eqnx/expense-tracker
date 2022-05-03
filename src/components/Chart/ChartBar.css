@@ -1,0 +1,35 @@
+.bar-container{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bar-inner{
+    height: 100%;
+    width: 1rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.bar-fill{
+    /* background-color: #AC9969; */
+    background-color: #687BAC;
+    border-color: #687BAC;
+    width: 100%;
+    transition: all 250ms ease-in;
+    padding: 0;
+    margin:0;
+}
+
+.bar-label{
+    padding: 0.5rem;
+    font-family: Century Gothic;
+    font-size: 1rem;
+    text-align: center;
+}

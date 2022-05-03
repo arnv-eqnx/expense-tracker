@@ -1,0 +1,24 @@
+.expenses-filter-container{
+    margin: 2rem auto;
+    width: 95%;
+    text-align: center;
+}
+  
+.expenses-filter-control {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+  
+.expenses-filter-container label {
+    font-size: 1rem;
+}
+  
+.expenses-filter-container select {
+    font-family: Century Gothic;   
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
